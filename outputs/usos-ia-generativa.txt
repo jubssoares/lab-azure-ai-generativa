@@ -1,0 +1,18 @@
+Aqui estão três exemplos de como a IA generativa está ajudando as pessoas em diferentes áreas:
+
+1. Saúde
+A IA generativa está sendo utilizada para **diagnóstico de doenças** e **desenvolvimento de novos medicamentos**. Por exemplo, algoritmos podem analisar grandes volumes de dados médicos para identificar padrões que ajudam na detecção precoce de doenças, além de simular como diferentes compostos químicos podem interagir no corpo, acelerando a descoberta de novos tratamentos[1].
+
+2. Educação
+Ferramentas de IA generativa, como chatbots educacionais, estão ajudando alunos a aprender de forma personalizada. Elas podem gerar explicações, responder perguntas e até criar exercícios adaptados ao nível de conhecimento do aluno, tornando o aprendizado mais acessível e interativo[2].
+
+3. Criação de Conteúdo
+Plataformas como o DALL-E e o ChatGPT permitem que usuários criem imagens e textos de forma rápida e criativa. Isso é especialmente útil para profissionais de marketing e criadores de conteúdo, que podem gerar ideias e materiais visuais de maneira eficiente, economizando tempo e recursos[3][4].
+
+Esses exemplos mostram como a IA generativa está transformando diversas áreas, tornando processos mais eficientes e acessíveis. Você tem interesse em alguma dessas aplicações específicas?
+
+Referências: 
+[1] (https://fcamara.com/blog/ia-generativa-o-que-e-como-funciona-e-exemplos/)
+[2] (https://olhardigital.com.br/2023/08/16/pro/o-que-e-ia-generativa-veja-os-principais-exemplos/)
+[3] (https://niteolearning.com/blog/o-que-e-inteligencia-artificial-generativa-casos-de-uso/)
+[4] (https://blog.pareto.io/ia-generativa/)
